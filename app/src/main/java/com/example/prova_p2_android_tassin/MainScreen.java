@@ -15,6 +15,7 @@ import org.json.JSONObject;
 
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.List;
 
 public class MainScreen extends Activity {
 
