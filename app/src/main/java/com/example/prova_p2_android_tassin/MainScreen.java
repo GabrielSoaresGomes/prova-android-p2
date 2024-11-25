@@ -70,7 +70,7 @@ public class MainScreen extends Activity {
             @Override
             public void onClick(View view) {
                 try {
-                    Intent intent = new Intent(MainScreen.this, DetailScren.class);
+                    Intent intent = new Intent(MainScreen.this, DetailScreen.class);
                     intent.addFlags(Intent.FLAG_ACTIVITY_NO_HISTORY);
                     startActivity(intent);
                 } catch (Exception error) {
