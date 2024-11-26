@@ -5,5 +5,19 @@
     "imageUrl": "https://resource.logitech.com/content/dam/gaming/en/products/pro-x-superlight/magenta-update/bazooka-magenta-gallery-1.png",
     "price": "R$344,50",
     "rating": "3⭐"
+  },
+  {
+    "name": "Fone",
+    "description": "Fone sem fio",
+    "imageUrl": "https://res.cloudinary.com/corsair-pwa/image/upload/f_auto/q_auto/v1681091979/products/Gaming-Headsets/CA-9011201-NA/hero-carbon.webp",
+    "price": "R$544,50",
+    "rating": "4⭐"
+  },
+  {
+    "name": "Teclado",
+    "description": "Teclado sem fio",
+    "imageUrl": "https://cdn.iset.io/assets/50203/produtos/3521/teclado-sem-fio-logitech-k270-multim-dia-intersupri-2-.jpg",
+    "price": "R$544,50",
+    "rating": "1⭐"
   }
 ]
